@@ -23,8 +23,8 @@ setup(
                                'static/blogango/js/*.js',
                                ]
     },
-    author="Agiliq Solutions",
-    author_email="hello@agiliq.com",
+    author="GA",
+    author_email="sgapariciot@agmail.com",
     description="A django based blog",
     long_description=
     """
